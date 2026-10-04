@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Royale",
+  "description": "Premier Bangladeshi virtual casino simulation featuring Teen Patti, Crash, Andar Bahar, and Royal Slots in BDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
